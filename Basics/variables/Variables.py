@@ -5,3 +5,6 @@ print(type(userName), userName)
 print(type(integerNumber), integerNumber)
 print(type(floatNumber), floatNumber)
 
+print(bool(0))
+print(bool(1))
+
